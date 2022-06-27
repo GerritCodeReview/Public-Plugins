@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "852d4576_34c731c4",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1149434
+      },
+      "writtenOn": "2022-06-27T10:14:48Z",
+      "side": 1,
+      "message": "helm uninstall prometheus --namespace $NAMESPACE helm uninstall loki --namespace $NAMESPACE helm uninstall grafana --namespace $NAMESPACE kubectl delete -f ./dist/configuration",
+      "revId": "1ed2bb6b4f438f01fc349253acd2e18ca958737c",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    }
+  ]
+}
