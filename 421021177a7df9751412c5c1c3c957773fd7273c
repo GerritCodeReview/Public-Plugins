@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "138d1252_6823de6d",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1155249
+      },
+      "writtenOn": "2022-12-26T16:35:16Z",
+      "side": 1,
+      "message": "\u003e Change has been successfully merged\n\n144410",
+      "revId": "421021177a7df9751412c5c1c3c957773fd7273c",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    }
+  ]
+}
