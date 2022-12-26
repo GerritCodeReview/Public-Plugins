@@ -1,6 +1,23 @@
 {
   "comments": [
     {
+      "unresolved": true,
+      "key": {
+        "uuid": "1b4f60da_2c9a29fc",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 3
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 1155320
+      },
+      "writtenOn": "2022-12-26T18:15:28Z",
+      "side": 1,
+      "message": "Parent:     bd2860d4 (Allow gerrit maintainers group to remove reviewers)\nAuthor:     Jonathan Nieder \u003cjrn@google.com\u003e\nAuthorDate: 2019-09-11 21:54:28 +0000\nCommit:     Jonathan Nieder \u003cjrn@google.com\u003e\nCommitDate: 2019-09-11 21:56:26 +0000\nDon\u0027t allow plugin owners to push without review\nThis should make it more difficult to bypass review by mistake. We\nstill allow self-review so owners can still make progress unilaterally\nin an emergency if they need to.\nChange-Id: I740745dae8a0c2025b3a665d0a7cee429a287266",
+      "revId": "3a681b5799af3decb4636af95bd108162d1492fc",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    },
+    {
       "unresolved": false,
       "key": {
         "uuid": "63600dd4_105f76d5",
@@ -156,6 +173,41 @@
       "side": 1,
       "message": "https://gerrit-review.googlesource.com/c/Public-Plugins/+/236772/comments/63600dd4_105f76d5",
       "parentUuid": "1bcd4b80_57db163c",
+      "revId": "3a681b5799af3decb4636af95bd108162d1492fc",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "95872fa2_04d4eb6f",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1155320
+      },
+      "writtenOn": "2022-12-26T18:15:28Z",
+      "side": 1,
+      "message": "236772",
+      "parentUuid": "67c34372_edf401ae",
+      "revId": "3a681b5799af3decb4636af95bd108162d1492fc",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "e912f229_778aee47",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1155320
+      },
+      "writtenOn": "2022-12-26T18:15:28Z",
+      "side": 1,
+      "message": "236772",
       "revId": "3a681b5799af3decb4636af95bd108162d1492fc",
       "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
     }
