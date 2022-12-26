@@ -34,6 +34,24 @@
       "parentUuid": "8f953f72_3d854190",
       "revId": "6cf2ead146bc17fb7284e819636e5b11ea5124a8",
       "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "c44d2148_1905b5ee",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1155249
+      },
+      "writtenOn": "2022-12-26T16:59:48Z",
+      "side": 1,
+      "message": "Comment removed by: Edwin Kempin; Reason: spam",
+      "parentUuid": "a1e31935_bf9995f8",
+      "revId": "6cf2ead146bc17fb7284e819636e5b11ea5124a8",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
     }
   ]
 }
