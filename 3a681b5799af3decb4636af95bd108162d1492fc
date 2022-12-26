@@ -104,6 +104,24 @@
       "parentUuid": "463c1b62_b34150a6",
       "revId": "3a681b5799af3decb4636af95bd108162d1492fc",
       "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "679555ca_810e05db",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1155320
+      },
+      "writtenOn": "2022-12-26T17:53:54Z",
+      "side": 1,
+      "message": "\u003e \u003e \u003e Marco Antonio Amaral e Silva\n\u003e \n\u003e https://gerrit-review.googlesource.com/c/Public-Plugins/+/236772/comments/63600dd4_105f76d5Nov 05, 2020 11:21 PM\n\nReview",
+      "parentUuid": "cf4f0c19_ae90c33e",
+      "revId": "3a681b5799af3decb4636af95bd108162d1492fc",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
     }
   ]
 }
